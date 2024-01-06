@@ -12,7 +12,7 @@ header: images/background.jpg
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab is based in the [Zoology Department](https://www.otago.ac.nz/zoology) at the [University of Otago](https://www.otago.ac.nz/) in Dunedin, on _Te Waipounamu_, the south island of New Zealand.
 
 {%
   include button.html
@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/share.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -35,7 +35,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use molecular genetic, bioinformatic and neuroscience techniques to ask interesting questions about how animals develop from a single cell to a complex adult organism. Our current research is mainly focussed on two projects:
+>
+* Determining the role of the holobiont in tadpole tail regeneration, and how the microbiome is acquired, shaped and maintained.
+* Developing pre-clinical models of genetic epilepsy (DEE) using CRISPR/Cas9 editing using _Xenopus_ tadpoles, with the aim of finding new targets for future therapies.
 
 {%
   include button.html
@@ -50,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/greentads.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -60,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Principal Investigator Associate Professor Caroline Beck directs a small team of researchers and students.
 
 {%
   include button.html
@@ -75,7 +78,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/zoology.jpg"
   link="team"
   title="Our Team"
   text=text
