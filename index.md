@@ -4,7 +4,6 @@
 # Beck Lab
 
 Our lab uses tadpoles of the clawed frog _Xenopus laevis_ to study development and regeneration of appendages and to understand how mutations in over 100 genes lead to developmental and epilieptic encephalopathy (DEE) in humans.
-header: images/background.jpg
 
 {% include section.html %}
 
@@ -27,7 +26,7 @@ Our lab is based in the [Zoology Department](https://www.otago.ac.nz/zoology) at
 
 {%
   include feature.html
-  image="images/share.jpg"
+  image="images/stage8.jpg"
   link="research"
   title="Our Research"
   text=text
