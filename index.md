@@ -1,9 +1,10 @@
 ---
 ---
 
-# CarolineWBeck's Website
+# Beck Lab
 
-An engaging 1-3 sentence description of your lab.
+Our lab uses tadpoles of the clawed frog _Xenopus laevis_ to study development and regeneration of appendages and to understand how mutations in over 100 genes lead to developmental and epilieptic encephalopathy (DEE) in humans.
+header: images/background.jpg
 
 {% include section.html %}
 
