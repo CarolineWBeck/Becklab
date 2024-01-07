@@ -26,7 +26,7 @@ Our lab is based in the [Zoology Department](https://www.otago.ac.nz/zoology) at
 
 {%
   include feature.html
-  image="images/stage8.jpg"
+  image="images/cabrianascope.jpg"
   link="research"
   title="Our Research"
   text=text
