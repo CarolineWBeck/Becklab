@@ -1,5 +1,5 @@
 ---
-name: Caroline Beck
+name: Associate Professor Caroline Beck
 image: images/CBweb.jpg
 role: pi
 aliases:
@@ -8,6 +8,7 @@ aliases:
 links: 
   Department of Zoology webpage: https://www.otago.ac.nz/zoology/staff/beck
   orcid: 0000-0001-6489-7425
+  twitter: Frog_squisher
 ---
 
 Caroline studied at Birmingham University in the UK (Biochemistry BSc honours) before taking up a PhD with Prof Hugh Woodland at Warwick in 1992. After completing her PhD "Investigation of the effect of Wild type and mutant NF-kB related proteins on mesoderm induction in Xenopus" she began work as a postdoc in Prof Jonathan Slack's lab at the University of Bath, where she worked on tailbud development, gamma-secretases (briefly), transgenic techniques and tail regeneration. 
