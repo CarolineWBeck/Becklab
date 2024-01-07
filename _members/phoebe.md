@@ -1,9 +1,11 @@
----Dr. Phoebe Chapman 
+---
+name: Dr. Phoebe Chapman
 image: images/phoebe.jpg
+description: Postdoctoral Research Fellow
 role: postdoc
-group: 
 links:
-  github: 
+  email: 
+  twitter: 
 ---
 
 Phoebe joined the lab in August 2020, originally working from Queensland, Australia due to pandemic border issues. She relocated to Otago in March 2021. She has a BSc Hons and PhD from the University of Queensland, where she worked on parasitic diseases in sea turtles.
