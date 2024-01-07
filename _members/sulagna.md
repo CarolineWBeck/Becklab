@@ -1,6 +1,6 @@
 ---
 name: Dr. Sulagna Banerjee
-image: images/sulagna2.jpg
+image: images/Sulagna2.jpg
 description: Postdoctoral Research Fellow
 role: postdoc
 links:
