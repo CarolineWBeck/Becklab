@@ -23,7 +23,7 @@ masters student:
   description: Masters Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-graduation-cap
   description: Undergraduate Student
 
 programmer:
@@ -33,6 +33,14 @@ programmer:
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
+  
+former:
+  icon: fa-solid fa-microscope
+  description: Recent lab member
+
+collab:
+  icon: fa-solid fa-microscope
+  description: Collaborator
 
 # general
 
