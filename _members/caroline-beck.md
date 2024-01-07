@@ -6,7 +6,7 @@ aliases:
   - C.W.Beck
   
 links: 
-  Department of Zoology webpage: [Beck](https://www.otago.ac.nz/zoology/staff/beck)
+  Department of Zoology webpage: https://www.otago.ac.nz/zoology/staff/beck
   orcid: 0000-0001-6489-7425
 ---
 
