@@ -1,6 +1,6 @@
 ---Dr. Phoebe Chapman 
 image: images/phoebe.jpg
-role: Postdoctoral Fellow
+role: Postdoc
 group: 
 links:
   github: 
