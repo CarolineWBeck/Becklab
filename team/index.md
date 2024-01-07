@@ -22,11 +22,10 @@ nav:
 ## Recent Lab Members
 {% include list.html data="members" component="portrait" filters="role: former" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
 ## Collaborators
 {% include list.html data="members" component="portrait" filters="role: collab" %}
 
+{% include section.html background="images/background.jpg" dark=true %}
 
 {% include section.html %}
 
