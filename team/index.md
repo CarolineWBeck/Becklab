@@ -22,8 +22,8 @@ what to write here?
 {% capture content %}
 
 {% include figure.html image="images/CBweb.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/Phoebe.jpg" %}
+{% include figure.html image="images/Sulagna2.jpg" %}
 
 {% endcapture %}
 
