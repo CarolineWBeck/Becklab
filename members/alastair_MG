@@ -741,7 +741,7 @@
         
           <span class="portrait-role">
             
-            
+            <i class="icon fa-solid fa-graduation-cap"></i>
             <span>Genetics Masters student</span>
           </span>
         
@@ -752,46 +752,13 @@
 
 <div>
   
-    
-    
-    
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="/Becklab" data-tooltip="Email" data-style="bare" aria-label="Email">
-      <i class="icon fa-solid fa-envelope"></i>
-      
-        <span>Email</span>
-      
-    </a>
-  </div>
-
-<br />
-  
-    
-    
-    
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="/Becklab" data-tooltip="Twitter" data-style="bare" aria-label="Twitter">
-      <i class="icon fa-brands fa-twitter"></i>
-      
-        <span>Twitter</span>
-      
-    </a>
-  </div>
-
-<br />
-  
 </div>
 
 
 </div>
 
 
+Project description
 
 
 
