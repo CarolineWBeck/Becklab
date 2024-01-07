@@ -1,6 +1,6 @@
----
+
 name: Caroline Beck
-image: images/CB-web.jpg
+image: images/CBweb.jpg
 role: pi
 aliases:
   - C.W.Beck
