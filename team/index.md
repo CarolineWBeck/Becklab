@@ -6,7 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
-Current Beck Lab staff
+## Current Beck Lab staff
 
 {% include section.html %}
 
@@ -14,12 +14,18 @@ Current Beck Lab staff
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: technician" %}
 
-Current Beck Lab students
+## Current Beck Lab students
 
 {% include list.html data="members" component="portrait" filters="role: masters student" %}
 {% include list.html data="members" component="portrait" filters="role: undergraduate student" %}
 
+## Recent Lab Members
+{% include list.html data="members" component="portrait" filters="role: former" %}
+
 {% include section.html background="images/background.jpg" dark=true %}
+
+## Collaborators
+{% include list.html data="members" component="portrait" filters="role: collab" %}
 
 
 {% include section.html %}
