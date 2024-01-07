@@ -1,5 +1,5 @@
 ---
-name: Associate Professor Caroline Beck
+name: Caroline Beck
 image: images/CBweb.jpg
 role: pi
 aliases:
