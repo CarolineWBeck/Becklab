@@ -26,7 +26,7 @@ Our lab is based in the [Zoology Department](https://www.otago.ac.nz/zoology) at
 
 {%
   include feature.html
-  image="images/cabrianascope.jpg"
+  image="images/stage8.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -77,7 +77,7 @@ Principal Investigator Associate Professor Caroline Beck directs a small team of
 
 {%
   include feature.html
-  image="images/zoology.jpg"
+  image="images/cabrianascope.jpg"
   link="team"
   title="Our Team"
   text=text
