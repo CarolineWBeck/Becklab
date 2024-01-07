@@ -7,11 +7,11 @@ pi:
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-microscope
   description: Postdoctoral Researcher
 
 technician:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-microscope
   description: Research Technician/Lab Manager
 
 phd:
