@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Replace this with orcid input from our lab
+ATTEMPT
 
 {% include section.html %}
 
