@@ -1,5 +1,81 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1111/jnc.15836
+  title: "Characterisation and automated quantification of induced seizure\u2010related\
+    \ behaviours in <i>Xenopus laevis</i> tadpoles"
+  authors:
+  - Sandesh Panthi
+  - Phoebe A. Chapman
+  - Paul Szyszka
+  - Caroline W. Beck
+  publisher: Journal of Neurochemistry
+  date: '2023-05-17'
+  link: https://doi.org/gtcmmq
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5751/jfo-00392-940412
+  title: Report of bilateral gynandromorphy in a Green Honeycreeper ( Chlorophanes
+    spiza ) from Colombia
+  authors:
+  - John Murillo
+  - Edwin Campbell-Thompson
+  - Thomas Bishop
+  - Caroline Beck
+  - Hamish Spencer
+  publisher: Journal of Field Ornithology
+  date: '2023-01-01'
+  link: https://doi.org/gs8p8j
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.10.05.561135
+  title: The role of family and environment in determining the skin microbiome of
+    captive aquatic frogs,<i>Xenopus laevis</i>
+  authors:
+  - Phoebe A. Chapman
+  - Daniel Hudson
+  - Xochitl C. Morgan
+  - Caroline W. Beck
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-06'
+  link: https://doi.org/gtcm5n
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/dvdy.517
+  title: Gene expression analysis of the <scp><i>Xenopus laevis</i></scp> early limb
+    bud proximodistal axis
+  authors:
+  - Daniel T. Hudson
+  - Jessica S. Bromell
+  - Robert C. Day
+  - Tyler McInnes
+  - Joanna M. Ward
+  - Caroline W. Beck
+  publisher: Developmental Dynamics
+  date: '2022-07-20'
+  link: https://doi.org/gtcmmt
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/wrr.13003
+  title: Manipulating the microbiome alters regenerative outcomes in <i>Xenopus laevis</i>
+    tadpoles via lipopolysaccharide signalling
+  authors:
+  - Phoebe A. Chapman
+  - Campbell B. Gilbert
+  - Thomas J. Devine
+  - Daniel T. Hudson
+  - Joanna Ward
+  - Xochitl C. Morgan
+  - Caroline W. Beck
+  publisher: Wound Repair and Regeneration
+  date: '2022-02-25'
+  link: https://doi.org/gtcmmv
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/genetics/iyac049
   title: Noggin proteins are multifunctional extracellular regulators of cell signaling
   authors:
@@ -14,6 +90,18 @@
   publisher: Genetics
   date: '2022-03-31'
   link: https://doi.org/gtcmmg
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.isci.2021.103281
+  title: Bacterial lipopolysaccharides can initiate regeneration of the Xenopus tadpole
+    tail
+  authors:
+  - Thomas F. Bishop
+  - Caroline W. Beck
+  publisher: iScience
+  date: '2021-11-01'
+  link: https://doi.org/gtcmmp
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
@@ -385,7 +473,7 @@
   title: Involvement of NF-kappaB associated proteins in FGF-mediated mesoderm induction
   authors: []
   publisher: The International journal of developmental biology
-  date: '2024-01-07'
+  date: '2024-01-08'
   link: http://europepmc.org/abstract/MED/9496788
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
@@ -395,32 +483,6 @@
     \ on mesoderm induction in Xenopus"
   date: '2024-01-07'
   link: http://ethos.bl.uk/ProcessSearch.do?query=362617
-  orcid: 0000-0001-6489-7425
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.isci.2021.103281
-  title: Bacterial lipopolysaccharides can initiate regeneration of the Xenopus tadpole
-    tail
-  authors:
-  - Thomas F. Bishop
-  - Caroline W. Beck
-  publisher: iScience
-  date: '2021-11-01'
-  link: https://doi.org/gtcmmp
-  orcid: 0000-0001-6489-7425
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/jnc.15836
-  title: "Characterisation and automated quantification of induced seizure\u2010related\
-    \ behaviours in <i>Xenopus laevis</i> tadpoles"
-  authors:
-  - Sandesh Panthi
-  - Phoebe A. Chapman
-  - Paul Szyszka
-  - Caroline W. Beck
-  publisher: Journal of Neurochemistry
-  date: '2023-05-17'
-  link: https://doi.org/gtcmmq
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
@@ -450,39 +512,6 @@
   publisher: Regeneration
   date: '2015-02-01'
   link: https://doi.org/gtcmms
-  orcid: 0000-0001-6489-7425
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/dvdy.517
-  title: Gene expression analysis of the <scp><i>Xenopus laevis</i></scp> early limb
-    bud proximodistal axis
-  authors:
-  - Daniel T. Hudson
-  - Jessica S. Bromell
-  - Robert C. Day
-  - Tyler McInnes
-  - Joanna M. Ward
-  - Caroline W. Beck
-  publisher: Developmental Dynamics
-  date: '2022-07-20'
-  link: https://doi.org/gtcmmt
-  orcid: 0000-0001-6489-7425
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/wrr.13003
-  title: Manipulating the microbiome alters regenerative outcomes in <i>Xenopus laevis</i>
-    tadpoles via lipopolysaccharide signalling
-  authors:
-  - Phoebe A. Chapman
-  - Campbell B. Gilbert
-  - Thomas J. Devine
-  - Daniel T. Hudson
-  - Joanna Ward
-  - Xochitl C. Morgan
-  - Caroline W. Beck
-  publisher: Wound Repair and Regeneration
-  date: '2022-02-25'
-  link: https://doi.org/gtcmmv
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
