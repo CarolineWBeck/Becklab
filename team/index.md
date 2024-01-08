@@ -31,7 +31,7 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/1.jpg" %}
+{% include figure.html image="images/oocytes.jpg" %}
 {% include figure.html image="images/1.jpg" %}
 {% include figure.html image="images/3.jpg" %}
 
