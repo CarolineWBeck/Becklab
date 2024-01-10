@@ -20,7 +20,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: undergraduate student" %}
 
 ## Recent Lab Members
-{% include list.html data="members" component="portrait" filters="role: former" %}
+{% include list.html data="members" component="portrait" filters="role: recent" %}
 
 ## Collaborators
 {% include list.html data="members" component="portrait" filters="role: collab" %}
