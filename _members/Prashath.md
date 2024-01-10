@@ -1,6 +1,6 @@
 ---
 name: Dr. Prashath Karunaraj
-image: images/Prashath-small.jpg
+image: images/Prashath2.jpg
 description: Former PhD Student
 role: recent
 ---
