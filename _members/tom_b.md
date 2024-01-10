@@ -1,6 +1,6 @@
 ---
-name: Thomas Bishop
-image: images/Tom.JPG
+name: Dr. Thomas Bishop
+image: images/Tom2.jpg
 description: Former PhD student
 role: recent
 ---
