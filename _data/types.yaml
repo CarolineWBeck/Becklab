@@ -34,7 +34,7 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
   
-former:
+recent:
   icon: fa-solid fa-microscope
   description: Recent lab member
 
