@@ -1,6 +1,6 @@
 ---
 name: Jack O'Neill
-image: images/JackO
+image: images/Jacko
 description: Genetics Masters student
 role: masters student
 ---
