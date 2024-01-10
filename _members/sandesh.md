@@ -1,6 +1,6 @@
 ---
-name: Sandesh Panthi
-image: images/sandesh_web.jpg
+name: Dr. Sandesh Panthi
+image: images/sandesh.jpg
 description: Former Assistant Research Fellow
 role: recent
 ---
