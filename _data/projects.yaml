@@ -1,10 +1,10 @@
-- title: Cool Dataset
+- title: The _Xenopus laevis_ tadpole skin microbiome and its role in regeneration
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
+  image: images/tadbiome.png
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: In 2020, we received funding from the [Royal Society of New Zealand Marsden Fund](https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden) to develop our preliminary research into how the skin microbiome of _Xenopus_ tadpoles can be manipulated and how it affects regenerative outcomes, in collaboration with Dr Xochitl Morgan (Microbiology and Immunology) and Dr Robert Day (Biochemistry). Dr Phoebe Chapman is our postdoctoral fellow on this project, and leads the work. The project also involved research assistant Dan Hudson and former lab students Campbell Gilbert and Thomas Devine. Campbell was able to show that LPS extracted from commensal and non-commensal bacteria had similar effects in increasing the chances of tail regeneration. Tom isolated and sequenced the microbiomes of tadpoles raised in antibiotic (which regenerate less well) to those raised naturally (which regenerate better). Our first study was published in the journal Wound Repair and Regeneration as [Chapman et al, 2022](https://onlinelibrary.wiley.com/doi/full/10.1111/wrr.13003) A preprint of our recent work [The role of family and environment in determining the skin microbiome of captive aquatic frogs, _Xenopus laevis_](https://www.biorxiv.org/content/10.1101/2023.10.05.561135v1) shows how the tadpole skin becomes colonised. 
+  repo: CarolineWBeck/Becklab
   tags:
     - resource
 
