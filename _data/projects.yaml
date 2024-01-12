@@ -8,16 +8,6 @@
   tags:
     - resource
 
-- title: _Xenopus_ tadpole models of Developmental and Epileptic Encephalopathy (DEE)
-  subtitle: 
-  group: featured
-  image: images/Banerjee23.jpg
-  link: https://github.com/
-  description: We are delighted to have been awarded a second Project Grant from the [Neurological Foundation](https://neurological.org.nz/) which will enable us to continue to develop our tadpole model to study _de novo_ variants (not inherited from parents) that cause these devastating and largely untreatable early onset seizure disorders. This project is collaboration with fellow Zoology researchers Drs. Paul Szyszka and Bart Guerten, and Dr. Sulagna Banerjee will be rejoining the lab as the lead researcher.
-DEE are a diverse group of genetic disorders characterised by the onset of difficult-to-treat seizures in the first year of life, leading to developmental regression or stalling. Globally, clinical "gene hunters" have identified over 100 genes linked to DEE, but functional studies to determine why variants in these genes lead to seizures are failing to keep pace. _Xenopus_ tadpoles make good models for human disorders, and we will continue to model NZ patient specific variants using CRISPR/Cas9. We are also developing better tools to characterise tadpole behaviour, brain development and function, with a long term aim to developing models for rapid drug screening.
-  repo: CarolineWBeck/Becklab
-  tags:
-    - resource
 
 - title: Cool Tutorial
   subtitle: a subtitle
