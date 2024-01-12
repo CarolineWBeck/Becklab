@@ -16,8 +16,8 @@ nav:
 
 ## Current Beck Lab students
 
-{% include list.html data="members" component="portrait" filters="role: masters student" %}
-{% include list.html data="members" component="portrait" filters="role: undergraduate student" %}
+{% include list.html data="members" component="portrait" filters="role: masters" %}
+{% include list.html data="members" component="portrait" filters="role: undergraduate" %}
 
 ## Recent Lab Members
 {% include list.html data="members" component="portrait" filters="role: recent" %}
