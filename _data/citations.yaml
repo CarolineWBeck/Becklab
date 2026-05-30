@@ -1,5 +1,93 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3389/fneur.2026.1777738
+  title: "Seizures, increased interhemispheric synchrony, altered brain transcriptomics\
+    \ and a leaky blood\u2013brain barrier result from loss of ap3b2 in a CRISPR tadpole\
+    \ model of DEE48"
+  authors:
+  - Sulagna Banerjee
+  - Cabriana W. Earl
+  - Samuel C. Robson
+  - Paul Szyszka
+  - Caroline W. Beck
+  publisher: Frontiers in Neurology
+  date: '2026-03-23'
+  link: https://doi.org/hb54p6
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/dvdy.70088
+  title: Commensal skin bacteria interact with the innate immune system to promote
+    tail regeneration in <i>Xenopus laevis</i> tadpoles
+  authors:
+  - Phoebe A. Chapman
+  - Robert C. Day
+  - Daniel T. Hudson
+  - Joanna M. Ward
+  - Xochitl C. Morgan
+  - Caroline W. Beck
+  publisher: Developmental Dynamics
+  date: '2025-10-17'
+  link: https://doi.org/hbjnds
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/g3journal/jkaf179
+  title: "Unilateral loss of\n                    <i>recql4</i>\n                \
+    \    function in\n                    <i>Xenopus laevis</i>\n                \
+    \    tadpoles leads to ipsilateral ablation of the forelimb, hypoplastic Meckel's\
+    \ cartilage, and vascular defects"
+  authors:
+  - Caroline W Beck
+  - Matthew Reily-Bell
+  - Louise S Bicknell
+  publisher: 'G3: Genes, Genomes, Genetics'
+  date: '2025-08-16'
+  link: https://doi.org/hbjndt
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/fishes10080369
+  title: A Novel Approach to Perivitelline Fluid Extraction from Live Water-Activated
+    Eggs from Zebrafish, Danio rerio
+  authors:
+  - Blake A. Lewis
+  - P. Mark Lokman
+  - Caroline W. Beck
+  publisher: Fishes
+  date: '2025-08-01'
+  link: https://doi.org/g9wpn2
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/femsec/fiae131
+  title: The role of family and environment in determining the skin bacterial communities
+    of captive aquatic frogs, <i>Xenopus laevis</i>
+  authors:
+  - Phoebe A Chapman
+  - Daniel Hudson
+  - Xochitl C Morgan
+  - Caroline W Beck
+  publisher: FEMS Microbiology Ecology
+  date: '2024-09-24'
+  link: https://doi.org/g8p59n
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/genetics/iyae085
+  title: Knockdown of <i>NeuroD2</i> leads to seizure-like behavior, brain neuronal
+    hyperactivity and a leaky blood-brain barrier in a <i>Xenopus laevis</i> tadpole
+    model of DEE72
+  authors:
+  - Sulagna Banerjee
+  - Paul Szyszka
+  - Caroline W Beck
+  publisher: GENETICS
+  date: '2024-05-24'
+  link: https://doi.org/gt7ccw
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/jnc.15836
   title: "Characterisation and automated quantification of induced seizure\u2010related\
     \ behaviours in <i>Xenopus laevis</i> tadpoles"
@@ -30,22 +118,23 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.10.05.561135
-  title: The role of family and environment in determining the skin microbiome of
-    captive aquatic frogs,<i>Xenopus laevis</i>
+  title: "The role of family and environment in determining the skin microbiome of\
+    \ captive aquatic frogs,\n                  <i>Xenopus laevis</i>"
   authors:
   - Phoebe A. Chapman
   - Daniel Hudson
   - Xochitl C. Morgan
   - Caroline W. Beck
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-10-06'
   link: https://doi.org/gtcm5n
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/dvdy.517
-  title: Gene expression analysis of the <scp><i>Xenopus laevis</i></scp> early limb
-    bud proximodistal axis
+  title: "Gene expression analysis of the\n                    <scp>\n           \
+    \           <i>Xenopus laevis</i>\n                    </scp>\n              \
+    \      early limb bud proximodistal axis"
   authors:
   - Daniel T. Hudson
   - Jessica S. Bromell
@@ -60,8 +149,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/wrr.13003
-  title: Manipulating the microbiome alters regenerative outcomes in <i>Xenopus laevis</i>
-    tadpoles via lipopolysaccharide signalling
+  title: "Manipulating the microbiome alters regenerative outcomes in\n          \
+    \          <i>Xenopus laevis</i>\n                    tadpoles via lipopolysaccharide\
+    \ signalling"
   authors:
   - Phoebe A. Chapman
   - Campbell B. Gilbert
@@ -337,7 +427,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1098/rstb.2004.1463
-  title: Cellular and molecular mechanisms of regeneration in<i>Xenopus</i>
+  title: "Cellular and molecular mechanisms of regeneration in\n                 \
+    \   <i>Xenopus</i>"
   authors:
   - J. M. W. Slack
   - C. W. Beck
@@ -515,61 +606,325 @@
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.17912/micropub.biology.002018
+  title: Neurod2 knockdown in Xenopus laevis tadpole brain retains cells in a proliferating,
+    progenitor-like state
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
+  - Caroline W Beck
+  - Sulagna Banerjee
+  - Robert C Day
+  publisher: microPublication Biology
+  date: '2026-01-01'
+  link: https://doi.org/hb54hp
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: 'Neurod2 deficiency prevents neural progenitor cells exiting the cell
+    cycle and differentiating, predisposing the _Xenopus laevis_ tadpole brain to
+    hyper-excitability.
+
+    '
+  image: images/Banerjee23.jpg
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
+  - type: paper
+    link: https://doi.org/10.17912/micropub.biology.002018
   - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+    text: PubMed
+    link: https://pubmed.ncbi.nlm.nih.gov/41815199/
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  - DEE
+  - CRISPR
+  - neuroscience
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: pubmed:41948612
+  title: Seizures, increased interhemispheric synchrony, altered brain transcriptomics
+    and a leaky blood-brain barrier result from loss of
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Sulagna Banerjee
+  - Cabriana W Earl
+  - Samuel C Robson
+  - Paul Szyszka
+  - Caroline W Beck
+  publisher: Frontiers in neurology
+  date: '2026-03-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41948612
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: pubmed:41104769
+  title: Commensal skin bacteria interact with the innate immune system to promote
+    tail regeneration in Xenopus laevis tadpoles.
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Phoebe A Chapman
+  - Robert C Day
+  - Daniel T Hudson
+  - Joanna M Ward
+  - Xochitl C Morgan
+  - Caroline W Beck
+  publisher: 'Developmental dynamics : an official publication of the American Association
+    of Anatomists'
+  date: '2025-10-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41104769
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40819286
+  title: Unilateral loss of recql4 function in Xenopus laevis tadpoles leads to ipsilateral
+    ablation of the forelimb, hypoplastic Meckel's cartilage, and vascular defects.
+  authors:
+  - Caroline W Beck
+  - Matthew Reily-Bell
+  - Louise S Bicknell
+  publisher: G3 (Bethesda, Md.)
+  date: '2025-10-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40819286
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39317670
+  title: The role of family and environment in determining the skin bacterial communities
+    of captive aquatic frogs, Xenopus laevis.
+  authors:
+  - Phoebe A Chapman
+  - Daniel Hudson
+  - Xochitl C Morgan
+  - Caroline W Beck
+  publisher: FEMS microbiology ecology
+  date: '2024-10-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39317670
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38788202
+  title: Knockdown of NeuroD2 leads to seizure-like behavior, brain neuronal hyperactivity
+    and a leaky blood-brain barrier in a Xenopus laevis tadpole model of DEE75.
+  authors:
+  - Sulagna Banerjee
+  - Paul Szyszka
+  - Caroline W Beck
+  publisher: Genetics
+  date: '2024-07-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38788202
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:27499864
+  title: Distinct patterns of endosulfatase gene expression during Xenopus laevis
+    limb development and regeneration.
+  authors:
+  - Yi-Hsuan Wang
+  - Caroline Beck
+  publisher: Regeneration (Oxford, England)
+  date: '2015-03-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27499864
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:24823862
+  title: Distal expression of sprouty (spry) genes during Xenopus laevis limb development
+    and regeneration.
+  authors:
+  - Yi-Hsuan Wang
+  - Caroline W Beck
+  publisher: 'Gene expression patterns : GEP'
+  date: '2014-05-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24823862
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:23981117
+  title: Attenuation of bone morphogenetic protein signaling during amphibian limb
+    development results in the generation of stage-specific defects.
+  authors:
+  - Tamsin E M Jones
+  - Robert C Day
+  - Caroline W Beck
+  publisher: Journal of anatomy
+  date: '2013-08-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23981117
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:22956108
+  title: Studying regeneration in Xenopus.
+  authors:
+  - Caroline W Beck
+  publisher: Methods in molecular biology (Clifton, N.J.)
+  date: '2012-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22956108
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:22947425
+  title: Histone deacetylases are required for amphibian tail and limb regeneration
+    but not development.
+  authors:
+  - Amy J Taylor
+  - Caroline W Beck
+  publisher: Mechanisms of development
+  date: '2012-08-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22947425
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:21896182
+  title: Transdifferentiation from cornea to lens in Xenopus laevis depends on BMP
+    signalling and involves upregulation of Wnt signalling.
+  authors:
+  - Robert C Day
+  - Caroline W Beck
+  publisher: BMC developmental biology
+  date: '2011-09-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21896182
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:21509899
+  title: Expression of key retinoic acid modulating genes suggests active regulation
+    during development and regeneration of the amphibian limb.
+  authors:
+  - James McEwan
+  - Joshua Lynch
+  - Caroline W Beck
+  publisher: 'Developmental dynamics : an official publication of the American Association
+    of Anatomists'
+  date: '2011-02-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21509899
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:20969978
+  title: Analysis of the expression of retinoic acid metabolising genes during Xenopus
+    laevis organogenesis.
+  authors:
+  - Joshua Lynch
+  - James McEwan
+  - Caroline W Beck
+  publisher: 'Gene expression patterns : GEP'
+  date: '2010-10-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20969978
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:19681139
+  title: Gene expression profiles of lens regeneration and development in Xenopus
+    laevis.
+  authors:
+  - Erica L Malloch
+  - Kimberly J Perry
+  - Lisa Fukui
+  - Verity R Johnson
+  - Jason Wever
+  - Caroline W Beck
+  - Michael W King
+  - Jonathan J Henry
+  publisher: 'Developmental dynamics : an official publication of the American Association
+    of Anatomists'
+  date: '2009-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19681139
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:19322766
+  title: Overexpression of the transcription factor Msx1 is insufficient to drive
+    complete regeneration of refractory stage Xenopus laevis hindlimbs.
+  authors:
+  - Donna M Barker
+  - Caroline W Beck
+  publisher: 'Developmental dynamics : an official publication of the American Association
+    of Anatomists'
+  date: '2009-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19322766
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:19280606
+  title: 'Beyond early development: Xenopus as an emerging model for the study of
+    regenerative mechanisms.'
+  authors:
+  - Caroline W Beck
+  - "Juan Carlos Izpis\xFAa Belmonte"
+  - Bea Christen
+  publisher: 'Developmental dynamics : an official publication of the American Association
+    of Anatomists'
+  date: '2009-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19280606
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:18570684
+  title: Identification of genes associated with regenerative success of Xenopus laevis
+    hindlimbs.
+  authors:
+  - Esther J Pearl
+  - Donna Barker
+  - Robert C Day
+  - Caroline W Beck
+  publisher: BMC developmental biology
+  date: '2008-06-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18570684
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:17320068
+  title: Differential ability of Ptf1a and Ptf1a-VP16 to convert stomach, duodenum
+    and liver to pancreas.
+  authors:
+  - Zeina H Jarikji
+  - Sandeep Vanamala
+  - Caroline W Beck
+  - Chris V E Wright
+  - Steven D Leach
+  - Marko E Horb
+  publisher: Developmental biology
+  date: '2007-01-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17320068
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:16938438
+  title: Temporal requirement for bone morphogenetic proteins in regeneration of the
+    tail and limb of Xenopus tadpoles.
+  authors:
+  - Caroline W Beck
+  - Bea Christen
+  - Donna Barker
+  - Jonathan M W Slack
+  publisher: Mechanisms of development
+  date: '2006-07-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16938438
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:12967562
+  title: Molecular pathways needed for regeneration of spinal cord and muscle in a
+    vertebrate.
+  authors:
+  - Caroline W Beck
+  - Bea Christen
+  - Jonathan M W Slack
+  publisher: Developmental cell
+  date: '2003-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12967562
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:12622731
+  title: Comparison of even-skipped related gene expression pattern in vertebrates
+    shows an association between expression domain loss and modification of selective
+    constraints on sequences.
+  authors:
+  - Fabien Avaron
+  - "Christelle Tha\xEBron-Antono"
+  - Caroline W Beck
+  - "V\xE9ronique Borday-Birraux"
+  - "Jacqueline G\xE9raudie"
+  - Didier Casane
+  - Patrick Laurenti
+  publisher: Evolution & development
+  date: '2003-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12622731
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:12557213
+  title: Regeneration-specific expression pattern of three posterior Hox genes.
+  authors:
+  - Bea Christen
+  - Caroline W Beck
+  - Aurora Lombardo
+  - Jonathan M W Slack
+  publisher: 'Developmental dynamics : an official publication of the American Association
+    of Anatomists'
+  date: '2003-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12557213
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:11934154
+  title: Notch is required for outgrowth of the Xenopus tail bud.
+  authors:
+  - Caroline W Beck
+  - Jonathan M W Slack
+  publisher: The International journal of developmental biology
+  date: '2002-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11934154
   plugin: sources.py
   file: sources.yaml
