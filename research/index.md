@@ -7,13 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-ATTEMPT
-
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="" style="rich" %}
+{% include citation.html lookup="doi:10.17912/micropub.biology.002018" style="rich" %}
 
 {% include section.html %}
 

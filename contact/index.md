@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are based in the [Department of Zoology](https://www.otago.ac.nz/zoology) at the [University of Otago](https://www.otago.ac.nz/), Dunedin, New Zealand. Feel free to get in touch!
 
 {%
   include button.html
@@ -24,7 +22,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/zoology.jpg"
+  image="images/zoology.JPG"
   caption="Department of Zoology"
 %}
 
@@ -34,8 +32,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/greentads.jpg"
+  caption="Xenopus laevis tadpoles"
 %}
 
 {% endcapture %}
@@ -45,21 +43,24 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+**Mailing Address**  
+Beck Lab, Department of Zoology  
+University of Otago  
+P.O. Box 56, Dunedin 9054  
+New Zealand
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+**Location**  
+Zoology Building  
+340 Castle Street  
+Dunedin, New Zealand
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+**Links**  
+[Department of Zoology](https://www.otago.ac.nz/zoology)  
+[University of Otago](https://www.otago.ac.nz/)
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
