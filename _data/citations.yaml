@@ -16,6 +16,22 @@
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.64898/2025.12.29.696940
+  title: "Seizures, increased interhemispheric synchrony, altered brain transcriptomics\
+    \ and a leaky blood-brain barrier result from loss of\n                  <i>ap3b2</i>\n\
+    \                  in a CRISPR tadpole model of DEE48"
+  authors:
+  - Sulagna Banerjee
+  - Cabriana W. Earl
+  - Samuel C. Robson
+  - Paul Szyszka
+  - Caroline W. Beck
+  publisher: openRxiv
+  date: '2025-12-30'
+  link: https://doi.org/hb569n
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/dvdy.70088
   title: Commensal skin bacteria interact with the innate immune system to promote
     tail regeneration in <i>Xenopus laevis</i> tadpoles
@@ -60,6 +76,38 @@
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2025.05.09.653037
+  title: "Commensal skin bacteria interact with the innate immune system to promote\
+    \ tail regeneration in\n                  <i>Xenopus laevis</i>\n            \
+    \      tadpoles"
+  authors:
+  - Phoebe A. Chapman
+  - Robert C Day
+  - Daniel T. Hudson
+  - Joanna M. Ward
+  - Xochitl C. Morgan
+  - Caroline W. Beck
+  publisher: openRxiv
+  date: '2025-05-14'
+  link: https://doi.org/hb569p
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.04.14.648861
+  title: "Unilateral loss of\n                  <i>recql4</i>\n                  function\
+    \ in\n                  <i>Xenopus laevis</i>\n                  tadpoles leads\
+    \ to ipsilateral ablation of the forelimb, hypoplastic Meckel\u2019s cartilage\
+    \ and vascular defects"
+  authors:
+  - Caroline W. Beck
+  - Matthew Reily-Bell
+  - Louise S. Bicknell
+  publisher: openRxiv
+  date: '2025-04-16'
+  link: https://doi.org/hb569q
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/femsec/fiae131
   title: The role of family and environment in determining the skin bacterial communities
     of captive aquatic frogs, <i>Xenopus laevis</i>
@@ -85,6 +133,21 @@
   publisher: GENETICS
   date: '2024-05-24'
   link: https://doi.org/gt7ccw
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.12.06.570491
+  title: "Knockdown of\n                  <i>NeuroD2</i>\n                  leads\
+    \ to seizure-like behaviour, brain neuronal hyperactivity and a leaky blood-brain\
+    \ barrier in a\n                  <i>Xenopus laevis</i>\n                  tadpole\
+    \ model of DEE75"
+  authors:
+  - S. Banerjee
+  - P. Szyszka
+  - C.W. Beck
+  publisher: openRxiv
+  date: '2023-12-08'
+  link: https://doi.org/hb569r
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
@@ -128,6 +191,64 @@
   publisher: openRxiv
   date: '2023-10-06'
   link: https://doi.org/gtcm5n
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.12.07.519540
+  title: "Expression of mRNA encoding two gain-of-function\n                  <i>cyfip2</i>\n\
+    \                  variants associated with DEE65 results in spontaneous seizures\
+    \ in\n                  <i>Xenopus laevis</i>\n                  tadpoles"
+  authors:
+  - Sandesh Panthi
+  - Paul Szyszka
+  - Caroline W. Beck
+  publisher: openRxiv
+  date: '2022-12-10'
+  link: https://doi.org/hb569s
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22541/au.167061324.45083753/v1
+  title: Characterisation and automated quantification of induced seizure-related
+    behaviours in Xenopus laevis tadpoles
+  authors:
+  - Sandesh Panthi
+  - Phoebe Chapman
+  - Paul Szyszka
+  - Caroline W. Beck
+  publisher: Wiley
+  date: '2022-12-09'
+  link: https://doi.org/hb569t
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.11.18.517140
+  title: "Characterisation and automated quantification of induced seizure-related\
+    \ behaviours in\n                  <i>Xenopus laevis</i>\n                  tadpoles"
+  authors:
+  - Sandesh Panthi
+  - Phoebe A. Chapman
+  - Paul Szyszka
+  - Caroline W. Beck
+  publisher: openRxiv
+  date: '2022-11-20'
+  link: https://doi.org/hb569v
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.05.03.490399
+  title: "Gene expression analysis of the\n                  <i>Xenopus laevis</i>\n\
+    \                  early limb bud proximodistal axis"
+  authors:
+  - D.T. Hudson
+  - J. S. Bromell
+  - R.C. Day
+  - T McInnes
+  - J.M. Ward
+  - C.W. Beck
+  publisher: openRxiv
+  date: '2022-05-04'
+  link: https://doi.org/gsz7nr
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
@@ -183,6 +304,24 @@
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2021.12.09.472019
+  title: "Manipulating the microbiome alters regenerative outcomes in\n          \
+    \        <i>Xenopus laevis</i>\n                  tadpoles via lipopolysaccharide\
+    \ signalling"
+  authors:
+  - Phoebe A. Chapman
+  - Campbell B. Gilbert
+  - Thomas J. Devine
+  - Daniel T. Hudson
+  - Joanna Ward
+  - Xochitl C. Morgan
+  - Caroline W. Beck
+  publisher: openRxiv
+  date: '2021-12-10'
+  link: https://doi.org/hb569w
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.isci.2021.103281
   title: Bacterial lipopolysaccharides can initiate regeneration of the Xenopus tadpole
     tail
@@ -192,6 +331,33 @@
   publisher: iScience
   date: '2021-11-01'
   link: https://doi.org/gtcmmp
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/319939
+  title: "Bacteria are required for regeneration of the\n                  <i>Xenopus</i>\n\
+    \                  tadpole tail"
+  authors:
+  - Thomas F. Bishop
+  - Caroline W. Beck
+  publisher: openRxiv
+  date: '2018-05-11'
+  link: https://doi.org/gkwt2m
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/268235
+  title: "Early lethality of embryos derived from transgenic\n                  <i>Xenopus</i>\n\
+    \                  females is associated with reduced ovarian\n              \
+    \    <i>grem1</i>\n                  expression"
+  authors:
+  - Caroline W. Beck
+  - Joanna Ward
+  - Lisa Troise
+  - Catherine Brochard
+  publisher: openRxiv
+  date: '2018-02-20'
+  link: https://doi.org/gk27xk
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
@@ -548,6 +714,15 @@
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
+- id: issn:0214-6282
+  title: Involvement of NF-kappaB associated proteins in FGF-mediated mesoderm induction
+  authors: []
+  publisher: The International journal of developmental biology
+  date: '2024-01-08'
+  link: http://europepmc.org/abstract/MED/9496788
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/s0925-4773(98)00015-x
   title: Analysis of the developing Xenopus tail bud reveals separate phases of gene
     expression during determination and outgrowth
@@ -557,15 +732,6 @@
   publisher: Mechanisms of Development
   date: '1998-03-01'
   link: https://doi.org/fq6p37
-  orcid: 0000-0001-6489-7425
-  plugin: orcid.py
-  file: orcid.yaml
-- id: issn:0214-6282
-  title: Involvement of NF-kappaB associated proteins in FGF-mediated mesoderm induction
-  authors: []
-  publisher: The International journal of developmental biology
-  date: '2024-01-08'
-  link: http://europepmc.org/abstract/MED/9496788
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
